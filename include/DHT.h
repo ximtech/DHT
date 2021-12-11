@@ -1,5 +1,6 @@
 #pragma once
 
+#include <stdbool.h>
 #include "main.h"
 #include "DWT_Delay.h"
 
